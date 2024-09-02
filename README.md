@@ -14,7 +14,7 @@
 
 - 🌱 I am deeply involved in research focusing on **accelerating SHACL validation and inference in RDF graphs**, treating these processes as dataflow. This work aims to optimize the underlying operations and improve the implementation of specific SHACL operations.
 
-- 👨‍💻 Visit my personal website for detailed information about my projects and academic journey: [sKrishnan](https://krishnann27.github.io/sKrishnan/).
+- 👨‍💻 Visit my personal website for detailed information about my projects and academic journey: [sKrishnan]([https://krishnann27.github.io/sKrishnan/](https://krishnann27.github.io/)).
 
 
 - 📄 To get a glimpse of my professional journey and experiences, check out my [resume](https://drive.google.com/file/d/1-0J4_z802vhiml2FsTxabW2Tx_IwGIko/view?usp=sharing).
