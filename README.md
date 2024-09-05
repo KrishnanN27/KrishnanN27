@@ -17,13 +17,10 @@
 - 👨‍💻 Visit my personal website for detailed information about my projects and academic journey: [sKrishnan]([https://krishnann27.github.io/sKrishnan/](https://krishnann27.github.io/).
 
 
-- 📄 To get a glimpse of my professional journey and experiences, check out my [resume](https://drive.google.com/file/d/1-0J4_z802vhiml2FsTxabW2Tx_IwGIko/view?usp=sharing).
-
 
    ### :link: &nbsp;Connect with me
 <p align="center">
 	<a href="mailto:sowndaryakrishnanna@mines.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/KrishnanN27"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/krishnan-n/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
